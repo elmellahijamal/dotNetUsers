@@ -1,0 +1,68 @@
+# Ignore Visual Studio temporary files and build results
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+out/
+
+# Backup & report files from converting an old project file
+Backup*/
+UpgradeLog*.htm
+UpgradeLog*.XML
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# Rider
+.idea/
+*.sln.iml
+*.tmp
+
+# Rider, Resharper, and external editors
+_ReSharper*/
+*.DotSettings.user
+*.sln.DotSettings
+
+# Azure DevOps
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# Visual Studio 2015+
+*.VC.opendb
+*.VC.VC.opendb
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+{envName}/
+
+# CMake
+[Cc]Make[Cc]ache.txt
+[Cc]Make[Ff]iles/
+[Cc]Test[Tt]estfile.cmake
+[Mm]akefile$
+cmake_install.cmake
